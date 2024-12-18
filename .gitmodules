@@ -1,0 +1,3 @@
+[submodule "Packages/Unity.AllPackage"]
+	path = Packages/Unity.AllPackage
+	url = https://github.com/hand-souma-kojima/Unity.AllPackage.git

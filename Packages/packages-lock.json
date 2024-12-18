@@ -1,5 +1,11 @@
 {
   "dependencies": {
+    "com.unity.allpackage": {
+      "version": "file:Unity.AllPackage",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.unity.collab-proxy": {
       "version": "2.6.0",
       "depth": 0,
